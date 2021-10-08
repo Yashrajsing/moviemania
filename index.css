@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    text-align: center;
+}
+body{
+    background: linear-gradient(90deg,rgb(235, 114, 189),rgb(207, 238, 4));
+}
+table{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0 0 10px blue;
+}
+h1{
+color: blueviolet;
+}
+#header{
+  background-color: lavender;
+  height: 100px; ;
+}
+#brand{
+    width: 40%;
+    float: left;
+   line-height: 100px;
+    height: 100px;
+    text-align: center;
+
+}
+#categories{
+    width: 60%;
+    float: right;
+    line-height: 100px;
+    height: 100px;
+    text-align: center;
+
+}
+a{
+    color: rgb(68, 35, 122);
+    margin: 20px;
+    text-decoration: none;
+ }
+   #title{
+       margin-top: 50px;
+   }
+   #action{
+       margin-top: 25px;
+   }
+   #bam{
+       width: 300px;
+       background: linear-gradient(45deg, rgb(250, 10, 50),blue);
+       color: burlywood;
+       padding: 15px;
+       border-radius: 70%;
+       margin: auto;
+       margin-bottom: 10px;
+   }
+   #btm{
+       width: 300px;
+    background: linear-gradient(45deg, rgb(8, 160, 102),blue);
+    color: burlywood;
+    padding: 15px;
+    border-radius: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 20px;
+   }
+   #bsm{
+    width: 300px;
+    background: linear-gradient(45deg, rgb(9, 194, 92),rgb(206, 16, 231));
+    color: burlywood;
+    padding: 15px;
+    border-radius: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 20px;
+   }
+   #footer{
+       margin-top: 50px;
+    background-color: lavender;
+    padding: 30px;
+    height: 70px; 
+    color: blueviolet;
+  }
+   
